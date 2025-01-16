@@ -1,21 +1,14 @@
-# Ignore system files
+
+# System files to ignore
 .DS_Store
 Thumbs.db
 
-# Ignore Python artifacts
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-*.egg-info/
+# Python artifacts
 *.log
+*.env
+*.tmp
+*.bak
 
-# Ignore IDE-specific files
-.vscode/
+# IDE-specific files
 .idea/
-
-# Ignore virtual environments
-env/
-venv/
-.venv/
+.vscode/
