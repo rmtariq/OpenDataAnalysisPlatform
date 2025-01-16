@@ -1,0 +1,8 @@
+matplotlib
+seaborn
+pandas
+numpy
+wordcloud
+scikit-learn
+jupyterlab
+ipywidgets
